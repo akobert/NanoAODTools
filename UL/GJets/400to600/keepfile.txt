@@ -1,0 +1,15 @@
+drop *
+keep FatJet*
+keep Jet*
+keep selectedPat*
+keep SubJet*
+keep Photon*
+keep nGenPart
+keep GenPart*
+keep pu*
+keep *Pdf*
+keep run
+keep luminosityBlock
+keep event
+keep PV*
+keep HLT*

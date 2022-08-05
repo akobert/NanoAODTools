@@ -1,0 +1,27 @@
+1) https://twiki.cern.ch/twiki/bin/viewauth/CMS/NanoAODTools
+
+cmsrel CMSSW_10_6_19_patch2
+cd CMSSW_10_6_19_patch2/src
+cmsenv
+git cms-init   #not really needed unless you later want to add some other cmssw stuff
+git clone https://github.com/cms-nanoAOD/nanoAOD-tools.git PhysicsTools/NanoAODTools
+scram b
+
+2) copy 
+ /cms/evah/workspace/CMSSW_10_6_19_patch2/src/PhysicsTools/NanoAODTools/python/postprocessing/modules/jme/fatJetUncertainties.py
+to the same place in your area
+I modified this code so that it takes care of the name of the fatjetcollection and so that it does the jet-subjet matching that we want
+and modified the groomed subjets to use the matched subjets
+
+3) make a condor job that runs
+makepico_data.sh
+OR
+makepico_MC.sh
+depending on if you are running over data or MC
+(this runs MakePico.sh, which runs preprocess.py )
+
+4) mkdir gobetween
+
+5) make sure to modify the triglist files
+
+6) check that the keepfile.txt has EVERYTHING  you need.
