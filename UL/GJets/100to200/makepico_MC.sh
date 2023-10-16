@@ -22,6 +22,6 @@ echo $wgt
 cd /home/akobert/CMSSW_10_6_19_patch2/src/UL/GJets/100to200
 eval `scramv1 runtime -sh`
 
-source MakePico.sh GJ100to200 /cms/xaastorage/NanoAOD/2018/JUNE19/UL/GJetsHTBinned/100to200/jetToolbox_nano_mc_2018GJetsHT100to200_$2 /home/akobert/CMSSW_10_6_19_patch2/src/gobetween UL2018 MC triglist2018MC.txt $wgt > /home/akobert/CMSSW_10_6_19_patch2/src/CondorFiles/logfiles_GJets100to200_$1_$2.log
+source MakePico.sh GJ100to200 /cms/akobert/BTag/GJets/100to200/jetToolbox_GJets100to200_BTagTest_$2 /home/akobert/CMSSW_10_6_19_patch2/src/gobetween UL2018 MC triglist2018MC.txt $wgt > /home/akobert/CMSSW_10_6_19_patch2/src/CondorFiles/logfiles_GJets100to200_$1_$2.log
 
 

@@ -121,9 +121,9 @@ jmsValues = {
 
 def GetJSON(year):
     path = "/cms/xaastorage/UL_JSON_FILES/"
-    if year == "2016": return path+"Cert_271036-284044_13TeV_Legacy2016_Collisions16_JSON.txt"
-    if year == "2017": return path+"Cert_294927-306462_13TeV_UL2017_Collisions17_GoldenJSON.txt"
-    if year == "2018": return path+"Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt"
+    if year == "UL2016": return path+"Cert_271036-284044_13TeV_Legacy2016_Collisions16_JSON.txt"
+    if year == "UL2017": return path+"Cert_294927-306462_13TeV_UL2017_Collisions17_GoldenJSON.txt"
+    if year == "UL2018": return path+"Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt"
 
 def preprocess(Inputs, OutputFolder, Year, Run, Triggers, haddOut):
     JSON = None
@@ -131,11 +131,11 @@ def preprocess(Inputs, OutputFolder, Year, Run, Triggers, haddOut):
     if Run == "MC":
         jmeCorrectionsAK8 = createJMECorrector(True, Year, Run, "All", "AK8PFPuppi")
         useModules.append(jmeCorrectionsAK8())
-        if Year == "2016":
+        if Year == "UL2016":
             useModules.append(puWeight_2016())
-        if Year == "2017":
+        if Year == "UL2017":
             useModules.append(puWeight_2017())
-        if Year == "2018":
+        if Year == "UL2018":
             useModules.append(puWeight_2018())
     else:
         jmeCorrectionsAK8 = createJMECorrector(False, Year, Run, "Total", "AK8PFPuppi")

@@ -1,0 +1,2 @@
+/cms/se/phedex/store/mc/RunIISummer20UL17NanoAODv9/VectorZPrimeGammaToQQGamma_GpT75_M75_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_mc2017_realistic_v9-v1/2550000/A2FAF0D0-EDFF-7E4A-B649-DF272A1D7D75.root
+/cms/se/phedex/store/mc/RunIISummer20UL17NanoAODv9/VectorZPrimeGammaToQQGamma_GpT75_M75_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_mc2017_realistic_v9-v1/40000/89329F92-E9C0-E541-9B37-840050B0E673.root

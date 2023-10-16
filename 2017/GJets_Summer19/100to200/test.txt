@@ -1,0 +1,15 @@
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/20000/AA2CE1B1-607A-BF4F-9CB5-A10DD317E588.root
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/250000/973C5B62-049D-0D42-9A76-06EBE13696A4.root
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/270000/0036DC59-FBA1-654F-BC9D-55829271A4DD.root
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/270000/0CBF0750-007C-2C45-80C7-218C719E5683.root
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/270000/5E54F26B-21C8-7E4D-87D2-8A77C36D6E3D.root
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/270000/881A0CEA-2E77-984D-BEF2-0D4F515420C1.root
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/270000/92CBFAA1-A0EC-774F-883E-64BE82ABDF2C.root
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/270000/DD6A6CC9-265D-7146-A075-FAAB8BC5215D.root
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/270000/FA99AA04-C4E6-864E-A64B-04857B8B223D.root
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/280000/42FF0B9A-0B72-F341-B591-7EA9A3F5A3D4.root
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/280000/4C4A7B81-0C65-CE41-97ED-92D12EC8E262.root
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/280000/55C1BDAD-8478-794E-A7B9-7B5638A0252E.root
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/40000/141D604C-0976-6444-84F9-7DDE89855750.root
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/50000/1660CAB9-B061-5F40-B7C6-C7ABB1CC0052.root
+/cms/se/phedex/store/mc/RunIISummer19UL17NanoAODv2/GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/4cores5k_106X_mc2017_realistic_v8-v1/50000/75CE82D5-CDF3-8047-BCC3-49ED526E62F3.root

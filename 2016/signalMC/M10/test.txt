@@ -1,0 +1,1 @@
+/cms/se/phedex/store/mc/RunIISummer20UL16NanoAODv9/VectorZPrimeGammaToQQGamma_GpT75_M10_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_mcRun2_asymptotic_v17-v1/2550000/0E66D54B-F3B6-2243-9775-19DD26D4B915.root

@@ -11,5 +11,9 @@ keep *Pdf*
 keep run
 keep luminosityBlock
 keep event
+keep Muon*
 keep PV*
-keep HLT*
+keep HLT_Photon*
+keep HLT_Mu*
+keep MET*
+keep PuppiMET*

@@ -1,0 +1,3 @@
+/cms/se/phedex/store/mc/RunIISummer20UL16NanoAODv9/ZGammaToJJGamma_TuneCP5_13TeV-amcatnloFXFX-pythia8/NANOAODSIM/106X_mcRun2_asymptotic_v17-v1/40000/5035D356-7A6D-D948-A17F-C866A7A9A4A8.root
+/cms/se/phedex/store/mc/RunIISummer20UL16NanoAODv9/ZGammaToJJGamma_TuneCP5_13TeV-amcatnloFXFX-pythia8/NANOAODSIM/106X_mcRun2_asymptotic_v17-v1/40000/E98E5296-8939-DF48-A116-4592301AD760.root
+/cms/se/phedex/store/mc/RunIISummer20UL16NanoAODv9/ZGammaToJJGamma_TuneCP5_13TeV-amcatnloFXFX-pythia8/NANOAODSIM/106X_mcRun2_asymptotic_v17-v1/40000/EF7F6B67-8852-274B-95D6-A11C345E5219.root

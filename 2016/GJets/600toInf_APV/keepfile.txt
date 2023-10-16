@@ -1,0 +1,17 @@
+drop *
+keep FatJet*
+keep Jet*
+keep SubJet*
+keep Photon*
+keep nGenPart
+keep GenPart*
+keep pu*
+keep *Pdf*
+keep run
+keep luminosityBlock
+keep event
+keep Muon*
+keep PV*
+keep HLT_Mu*
+keep HLT_Photon*
+keep *MET*

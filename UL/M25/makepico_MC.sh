@@ -22,6 +22,6 @@ echo $wgt
 cd /home/akobert/CMSSW_10_6_19_patch2/src/UL/M25
 eval `scramv1 runtime -sh`
 
-source MakePico.sh M25 /cms/xaastorage/NanoAOD/2018/JUNE19/UL/signal/M25/jetToolbox_nano_mc_2018_M25_$2 /home/akobert/CMSSW_10_6_19_patch2/src/gobetween 2018 MC triglist2018MC.txt $wgt > /home/akobert/CMSSW_10_6_19_patch2/src/CondorFiles/logfiles_M25_$1_$2.log
+source MakePico.sh M25 /cms/akobert/BTag/signalMC/M25/jetToolbox_M25_BTagTest_$2 /home/akobert/CMSSW_10_6_19_patch2/src/gobetween UL2018 MC triglist2018MC.txt $wgt > /home/akobert/CMSSW_10_6_19_patch2/src/CondorFiles/logfiles_M25_$1_$2.log
 
 
